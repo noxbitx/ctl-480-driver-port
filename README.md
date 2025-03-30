@@ -2,6 +2,7 @@
 # Wacom CTL-480 Driver Port for Android (SM-T819 / MSM8976)
 
 WARNING: This driver porting process is extremely difficult. Proceed only if you’ve got stable mental firmware.
+
 DISCLAIMER: I am not responsible for bricked devices, kernel panics, or spontaneous combustion. You know the drill.
 
 
@@ -12,7 +13,7 @@ Status: In Progress
 Target Kernel: android_kernel_samsung_msm8976-lineage-16.0
 Platform: Samsung Galaxy Tab S2 9.7 (SM-T819)
 Tablet: Wacom CTL-480 (USB, 5V 100mA)
-Environment: OTG-powered (3.5V), rooted Android 13 LineageOS 21
+Environment: OTG-powered (3.5V), rooted Android 14 LineageOS 21
 
 
 ---
