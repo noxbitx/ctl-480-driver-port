@@ -3,7 +3,7 @@ Porting Wacom CTL-480 to Android Kernel (Samsung MSM8976) — A hardcore custom 
 
 
 
-Wacom CTL-480 Driver Port for Android (SM-T819 / MSM8976)
+# Wacom CTL-480 Driver Port for Android (SM-T819 / MSM8976)
 
 WARNING: This driver porting process is extremely difficult. Proceed only if you’ve got stable mental firmware.
 DISCLAIMER: I am not responsible for bricked devices, kernel panics, or spontaneous combustion. You know the drill.
